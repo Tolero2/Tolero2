@@ -1,7 +1,7 @@
 Hi, welcome to **Tobi Ayotunde** **GitHub** Profile.
--  I’m interested in Systems Development Lifecycles, Database Engineering/Modelling/Analysis, Web Development, Data Analysis.
--  I’m improving my systems delivery skill by continually learning and understaning the concepts of systems development architectures.
-- I’m looking to collaborate on projects that focuses on any/all of these environment (HTML, PHP, MySQL, Python, Git Version Control System(VCS), GNU/Linux distributions).
+-  I’m interested in Systems Development Lifecycles, Database Engineering/Modelling/Analysis, Web Development, Data Analysis, Network Troubleshooting, Cybersecurity Operations.
+-  I’m improving my systems delivery skill by continually learning and understaning the concepts of systems, and network development architectures.
+- I’m looking to collaborate on projects that focuses on any/all of these environment (HTML, PHP, MySQL, Python, Git Version Control System(VCS), GNU/Linux distributions, Network interfaces).
 - 📫 How to reach me; ~Email: ayotundetobij@gmail.com
 
 **Feel free to look in my public repos to see what I am currently working on and provide constructive critisism**
