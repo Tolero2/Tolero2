@@ -13,9 +13,10 @@ My education in Computer Engineering, and my work experince in Client Services S
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| NETWORK FOERENSICS                            | <a href="https://github.com/Tolero2/Networking_Projects">NETWORKING Projects</a>|
-| SCRIPTING                                     | <a href="https://github.com/Tolero2/BASH_Scripts">BASH</a> , <a href="https://github.com/Tolero2/PY_Practice">PYTHON</a>|              
+| Network Forensics                           | <a href="https://github.com/Tolero2/Networking_Projects">NETWORKING Projects</a>|
+| Scripting                                     | <a href="https://github.com/Tolero2/BASH_Scripts">BASH</a> , <a href="https://github.com/Tolero2/PY_Practice">PYTHON</a>|              
 | SQL                                           | <a href="https://github.com/Tolero2/MYSQLDatabaseRepo">MYSQL Projects</a>|
+| Generate event data                            | <a href="https://github.com/Tolero2/PY_Practice/tree/main/Webscraping(BS4)%20%20project-v1%20">WebScrapping & Data Wrangling</a>|
 
 ## Tools
 ### Client/Server
