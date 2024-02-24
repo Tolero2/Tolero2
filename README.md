@@ -36,6 +36,12 @@ My education in Computer Engineering, and my work experince in Client Services S
 <img src="https://img.shields.io/badge/-SSH-2C3E50?style=for-the-badge&logo=ssh&logoColor=white" />
 </div>
 
+### SCRIPTING
+<div>
+<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</div>
+
 ### Database
 <div>
   <img src="https://img.shields.io/badge/-MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
