@@ -42,9 +42,10 @@ My education in Computer Engineering, and my work experince in Client Services S
   <img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite3&logoColor=white" />
 </div>
 
-## Certifications
+## Certifications & Badges
 <div>
-<img src="https://img.shields.io/badge/-AZ&#8209;100-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/-DP&#8209;900-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  
+<img src="https://img.shields.io/badge/-AZ&#8209;900-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/-DP&#8209;900-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
 </div>
+View all on <a href="https://www.credly.com/users/tobi-ayotunde">Credily</a>
