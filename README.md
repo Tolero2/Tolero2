@@ -52,6 +52,6 @@ My education in Computer Engineering, and my work experince in Client Services S
 <div>
 <a href="https://www.credly.com/badges/9b9c28b7-b53b-4637-a3ec-ca67d1b74607"><img src="https://img.shields.io/badge/-AZ&#8209;900-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" /></a>
 <a href="https://www.credly.com/badges/f1c4c82c-ea04-454e-91ca-12e8f2628eaa"><img src="https://img.shields.io/badge/-DP&#8209;900-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+<a href="https://www.credly.com/badges/22030bd0-0b99-411c-8807-ad80e92b5444"><img src="https://img.shields.io/badge/-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" /></a>
 </div>
 View all certifications on <a href="https://www.credly.com/users/tobi-ayotunde">Credily</a>
