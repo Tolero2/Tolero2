@@ -16,9 +16,10 @@ My education in Computer Engineering, and my work experince in Client Services S
 | Network Device Configuration             | <a href="https://www.credly.com/badges/d006dda8-3cbd-47b4-a222-7aafd0da03b0">Cisco Labs</a>|
 | Network Forensics                        | <a href="https://github.com/Tolero2/Networking_Projects">Networking Projects</a>|
 | Scripting                                | <a href="https://github.com/Tolero2/BASH_Scripts">BASH</a> , <a href="https://github.com/Tolero2/PY_Practice">PYTHON</a>|              
+| Reporting                                | <a href="https://github.com/Tolero2/Networking_Projects/blob/main/10.10.20.2-Html-Report-Feb-21-14%3A15%3A32-PST-2024.md">Network Reconaissance Reporting</a>|
 | SQL                                      | <a href="https://github.com/Tolero2/MYSQLDatabaseRepo">MYSQL Practice</a>|
-| Generate Event Data                      | <a href="https://github.com/Tolero2/PY_Practice/tree/main/Webscraping(BS4)%20%20project-v1%20">WebScrapping & Data Wrangling</a>
-| Reporting                                | <a href="https://github.com/Tolero2/Networking_Projects">Network Reconaissance Reporting</a>|
+| Capture Event Data                      | <a href="https://github.com/Tolero2/PY_Practice/tree/main/Webscraping(BS4)%20%20project-v1%20">WebScrapping & Data Wrangling</a>
+
 
 ## Tools
 ### Client/Server
