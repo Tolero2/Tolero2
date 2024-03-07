@@ -6,7 +6,7 @@ I have a profound interest in technology and a dedication to solving complex pro
 
 ## Objective
 
-My education in Computer Engineering, and my work experince a Client Services Support has led me to develop a passion for cybersecurity and ethical hacking; I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My education in Computer Engineering, and proffesional experince as a Client Support Specialist helped me develop a passion for cybersecurity and ethical hacking; I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 
 ## Skills
