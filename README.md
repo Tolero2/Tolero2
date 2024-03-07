@@ -13,7 +13,7 @@ My education in Computer Engineering, and my work experince in Client Services S
 
 | Skill                                    | Associated Project         |
 |------------------------------------------|----------------------------|
-| Audit a system for potential misconfigurations or unprotected services using <br><b>***LYNIS***</b> security auditing tool.| Harden Security on a Linux System Lab ,<br> Harden Security on SSH service|
+| Audit a system for potential misconfigurations or unprotected services using <br><b>***Lynis***</b> security auditing tool.| Harden Security on a Linux System Lab ,<br> Harden Security on SSH service|
 | Network Forensics                        | <a href="https://github.com/Tolero2/Networking_Projects">Networking Projects</a>|
 | Network Device Configuration             | <a href="https://www.credly.com/badges/d006dda8-3cbd-47b4-a222-7aafd0da03b0">Cisco Labs</a>|
 | Configure Remote Access with SSH Agent   | <a href="https://github.com/Tolero2/Networking_Projects/blob/main/RemoteAccessLab.md">SSH Remote Access Lab</a>|              
