@@ -13,8 +13,8 @@ My education in Computer Engineering, and proffesional experince as a Client Sup
 
 | Skill                                    | Associated Project         |
 |------------------------------------------|----------------------------|
-| Malware Analysis with **OSSINT** tools.      | Analyze *Emotet* Malwares on **ANY.RUN** |
-| Audit a system for potential misconfigurations or unprotected services using <br><b>***Lynis***</b> security auditing tool.| Harden Security of a Linux System Lab ,<br> Harden Security of a service [SSH]|
+| Malware Analysis with Open Source Intelligence (**OSSINT**) tools      | Analyze *Emotet* Malwares on **ANY.RUN** |
+| Audit a system for potential misconfigurations or unprotected services using <br><b>***Lynis***</b> security auditing tool| Harden Security of a Linux System Lab ,<br> Harden Security of a service [SSH]|
 | Network Forensics                        | <a href="https://github.com/Tolero2/Networking_Projects">Networking Projects</a>|
 | Network Device Configuration             | <a href="https://www.credly.com/badges/d006dda8-3cbd-47b4-a222-7aafd0da03b0">Cisco Labs</a>|
 | Configure Remote Access with SSH Agent   | <a href="https://github.com/Tolero2/Networking_Projects/blob/main/RemoteAccessLab.md">SSH Remote Access Lab</a>|              
