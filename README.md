@@ -6,7 +6,7 @@ I have a profound interest in technology and a dedication to solving complex pro
 
 ## Objective
 
-My education in Computer Engineering, and proffesional experince as a Client Support Specialist helped me develop a passion for ***Cybersecurity*** and ***Network Analysis***; I am now eager to transition into this field, specifically aiming to join a Network/Security Operations Center (SOC/NOC) as a Tier Analyst.
+My education in Computer Engineering, and proffesional experince as a Technical Support Specialist helped me develop a passion for ***Cybersecurity*** and ***Network Analysis***; I am now eager to transition into this field, specifically aiming to join a Network/Security Operations Center (SOC/NOC) as a Tier Analyst.
 
 
 ## Skills
